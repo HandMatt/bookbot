@@ -1,2 +1,3 @@
 # bookbot
-text analysis tool from the Boot.dev project Bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
